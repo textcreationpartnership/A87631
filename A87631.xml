@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Ireland: from these severall places. Namely, Kimsale, Bandum, Clarakelty; with the valarous resolution of Captain Weldam. Also the taking and burning of the towne of Temo League, wherein was destroyed 1000. barrels of corne of the enemies. Expressed in a letter sent from Ensigne Iones to his brother Master Alexander Polington in Lumberstreet, London.</title>
+            <author>Jones, Isaac, Ensign.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87631</idno>
+            <idno type="STC">Wing J955</idno>
+            <idno type="STC">Thomason E109_4</idno>
+            <idno type="STC">ESTC R6731</idno>
+            <idno type="EEBO-CITATION">99873032</idno>
+            <idno type="PROQUEST">99873032</idno>
+            <idno type="VID">125479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125479)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Ireland: from these severall places. Namely, Kimsale, Bandum, Clarakelty; with the valarous resolution of Captain Weldam. Also the taking and burning of the towne of Temo League, wherein was destroyed 1000. barrels of corne of the enemies. Expressed in a letter sent from Ensigne Iones to his brother Master Alexander Polington in Lumberstreet, London.</title>
+                  <author>Jones, Isaac, Ensign.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Rrinted for Robort [sic] Howes and Thomas Bates, are to be sold in the Old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. August the 4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weldam, --  Captain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125479:1"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:125479:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>GOOD NEWES FROM IRELAND: From theſe ſeverall Places.</p>
+            <p>NAMELY, <hi>Kimſale, Bandum, Clarakelty;</hi> with the valarous reſolution of Captain <hi>Weldam.</hi>
+            </p>
+            <p>ALSO The taking and burning of the Towne of <hi>Temo League,</hi> wherein was deſtroyed 1000. Barrel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Corne of the Enemies.</p>
+            <p>Expreſſed in a Letter ſent from Enſigne IONES to his Brother Maſter <hi>Alexander Polington</hi> in <hi>Lumberstreet, London.</hi>
+            </p>
+            <p>London printed for <hi>Robort Howes</hi> and <hi>Thomas Bates,</hi> are to be ſold in the Old Bailey, 1642. Auguſt the 4.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125479:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:125479:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>Good Newes from IRELAND.</head>
+            <p>THe 28. of <hi>June</hi> we ſet ſail from <hi>Deal,</hi> the 29. and 30. we had along the Channel moſt miſerable weather, &amp; were of ſeverall Ships of our ſeverall deſignes 70. ſaile; by contra<g ref="char:EOLhyphen"/>ry windes, our fleet was forced into Mount <hi>Bay</hi> in <hi>Cornwall</hi> the firſt of <hi>July,</hi> and the 2. of the ſame we ſet ſaile from thence towards <hi>Ireland,</hi> but through a crewel miſt, and ſtreſſe of winde, we were almoſt brought upon the Rocks of <hi>Sille,</hi> and was within a ſtones throw upon them (with a full ſaile) ere we perceived them, and that by one man was ſpied alſo, this was at two of the clock in the morning, when every man (but the watch appointed) was aſleep, the report of two Guns which were ſhot by us to warn the reſt of our fleet, wakened us ſleepers, then did we perceive how great a danger God delivered us from; upon the fourth of the ſame, we made two ſaile of Ships, and bore up to them, and found one a <hi>Flemming,</hi> the other a <hi>Briſtow-man,</hi> both laden with ſalt from <hi>Rochell,</hi> who told us that at <hi>Rochell</hi> was an <hi>Iriſh</hi> veſ<g ref="char:EOLhyphen"/>ſell of ſome 50. Tun, laden with Amonition, who as they thought onely ſtayed till all the <hi>Engliſh,</hi> and the <hi>Dutch</hi> were gone from thence, and they then would venture
+<pb n="2" facs="tcp:125479:3"/>
+               <!-- PDF PAGE 58 -->forth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that there were two ſmall men of war <hi>Iriſhmen,</hi> that were upon buying up the <hi>French</hi> and <hi>Spaniſh</hi> prize, ſome eight peeces of Ordnance, and ſo take what <hi>Engliſh</hi> t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey could, that might be to weak for them; and ſo ei<g ref="char:EOLhyphen"/>ther that they may furniſh themſelves, or by that disfur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both which will be but little God knowes. The <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>July</hi> we got into <hi>Kimſaile,</hi> though in moſt mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> weather, where we had the knowledg of my Lord <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſident of <hi>Munſters</hi> death, and ſome things ſuſpected, to have had foule play form his Phyſitian his ſon: The <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>In<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>quin</hi> hath had a great conqueſt, for with a few men he kild, 500. Rebells, tooke 6. Cullers, 4. Drumes; the Rebells five ſeverall wayes undermined <hi>Limbrick-Call,</hi> and at laſt were Maſters of it, now that the Town and Casſtle is theirs as yet, our two longſtay, loſt it; for they kept it till Midſomer. I hope we ſhall go upon ſome deſigne ſuddenly, that will conduce much to out proſit, and honour; the rebells loſt ſeven ſcore Armes, the other day to my Lord of <hi>Inſiquen,</hi> and their want of that, was more loſſe to them by report, then three thouſand men, ſo few they have of Armes. I queſtion to Gods bleſſings in our Conqueſt: they call us the Parliaments Rebels, and ſay they would once faine ſee a preſt man come over. I have not elſe at preſent any thing worth your obſervation.</p>
+            <p>Friday the 16. of <hi>Iuly,</hi> we marched from <hi>Kimſaile</hi> to <hi>Bandum</hi> with nine Colours, two of which were all Sea<g ref="char:EOLhyphen"/>me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſever of Land-men, and all, ſome ſeven hundred; from <hi>Kimfaile</hi> to <hi>Bandum</hi> ſeven miles, which ſhewed their joy in meeting us and complelating guarding us into the Towne, whom we ſaluted both by diſplaying Co<g ref="char:EOLhyphen"/>lours,
+<pb n="3" facs="tcp:125479:3"/>
+               <!-- PDF PAGE 58 -->and alſo a full valley ſhot: wel billeted we were, we had on the Saturday following two Companies of Foot of theſe <hi>Bandum</hi> men, and ſome ſixty Horſe with many others, which they called and we found Pillagers, who onely mindes in all Actions their game, but conſide<g ref="char:EOLhyphen"/>red not our loſſe.</p>
+            <p>From <hi>Bandum</hi> wee marched with theſe aforeſaid to <hi>Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nna-kellie,</hi> and ſound in the towne not above twenty men, women and children, which our troopers killed all and ranged about, and found ſome hundred more hid in gardens, and killed all; there might you have ſeen every ſex diſcovered, and ſome lying on their backs, old, young, none ſpared: at ſome ſights I could have pittied, but con<g ref="char:EOLhyphen"/>ſider that pity ſpoyles a City; I durſt not cheriſh that charity. From <hi>Clannakelltie</hi> on the ſunday forenoone we marched to relieve <hi>Raple Barley</hi>-Caſtle, ſome three miles from thence, where one Maſter <hi>Freake</hi> lives in much diſtreſſe for want of helpe, we found him yet wel: but I ſhould have told you moreover that our Lievtenant Colonell Lord <hi>Fuerbruſh</hi> in our march from <hi>Clannokelte</hi> to the Caſtle, conſidered the booty we had taken, which was ſome eighteene hundred ſheepe, ſome two hundred Oxen and Cowes, and ſome fifty Horſe; he thought good to ſend three Companies back from us, to guard them at the Towne; they went, and the Enemies had notice of it, and by three Scouts had notice of their ſtrength, and came upon them; one of our Captaines was ſomewhat refractory, and would not hear of retreat<g ref="char:EOLhyphen"/>ing to any place of ſuccour; valour, but not diſcretion, was cut off Lievtenant and Enſigne, with ſome forty more, but did ſight very valiantly to the laſt, and his
+<pb n="4" facs="tcp:125479:4"/>
+               <!-- PDF PAGE 59 -->Enſigne with ſome Souldiers in the one part of the town retreated into a houſe, and ſuffered himſelfe and Colours to burne, and armes alſo, rather then the Rebels ſhould have them: the Captaines name was <hi>Weldon,</hi> his Enſigne one <hi>Bridges,</hi> my Lord <hi>Furbruſh</hi> his Secretary alſo. Some ſix of the <hi>Bandum</hi> men were killed beſides, and ſome foure of Captame <hi>Price</hi> his Company, which was one of the three; but of the Rebels was killed ſome ſix or ſeven hundred men, and many more would, if they were not ſo baſe an Enemy to run away; for after we had ſent theſe three Companies back from us to the Towne to guard the Caſtle, while we went to relieve the Caſtle, never came to us (the Major <hi>Patys</hi>) to let us know that the Enemy was neere our three Companies; we left ſome aid with them in the Caſtle, and marched back to the Enemy, in great hope they would have ſtood one onſet, but they baſely fled, though ſix nay ſeven times our number; which I beleeve was well neere foure thou<g ref="char:EOLhyphen"/>ſand men: we alſo faſt purſued them with our Troope that they imbraced death to ſhut it; for one hundred Rebels leapt into the water, hoping to ſcape, but our Horſemen ſo eagerly followed them, that they in the water killed moſt, and one of our Troopers was in the exploit drowned, not giving his horſe way enough.</p>
+            <p>That night, we marched back ſome miles beyond the Town (where we loſt our men) and lodged in a fair field, the enemie I think being fled far enough from us. To <hi>Bandum</hi> on Munday at night, ws came and ſtayed all Tueſday there, and that day drove all the Cattle, which was ſome 2000. into the Town, and let whoſe will take
+<pb n="5" facs="tcp:125479:4"/>
+               <!-- PDF PAGE 59 -->what he could get; for our Souliers and the Townſmen, were ſo unruly that they would not have patience to ſtay till they were parted equally. Wedneſday the 20. we marched to <hi>Kilbrittan-Caſtle,</hi> now in poſſeſſion of the <hi>Engliſh,</hi> and quartered there all night, and the next day we marched ſome three miles beyond it, to <hi>Temoleague-Caſtle,</hi> and ſounded a Peale to the Lady of it; offered quarter, but refuſed, we preſently fell upon it, and with our ſmall field peeces, broke down the firſt wall, entred in the firſt gate, where they payed us with great ſtones, kild ſome 8. men, and when all was done, we could not take it, for our field peeces were to ſmall to batter down the Caſtle about their eares, which I hope we ſhall ere long; for we ſhall march thither againe one of theſe dayes better provided: We burnt all the Towne, and their great Abbey, in which was ſome thouſand barrels of corne: wee expected the Enemy would have come and ſet upon us there, but he did not. He is treacherous and cruell in advantage, but baſe in flight. If the other Army were come, I beleeve we might march through the Kingdome: on Friday we marched back to <hi>Kinſaile</hi> to our Ships, and tooke two Spies by the way, but the roagues ſlight death, for we could get nothing out of them; ſo our men mangled them to pieces.</p>
+            <closer>
+               <dateline>And received here <date>the 29. of July 1642.</date>
+               </dateline>
+               <signed>from <hi>Iſaac Jones,</hi> brother in Law to <hi>Alex. Pallington.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
